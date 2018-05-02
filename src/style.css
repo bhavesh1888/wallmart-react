@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+.container{
+  padding: 16px;
+}
+.large-text-field{
+  width: 300px!important;
+}
+.ant-table-tbody>tr>td, .ant-table-thead>tr>th{
+  padding: 5px!important;
+}

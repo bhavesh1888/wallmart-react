@@ -1,0 +1,25 @@
+{
+  "name": "react-mm7gcy",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-mm7gcy",
+  "dependencies": {
+    "antd": "3.4.3",
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.0.10",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
